@@ -1,0 +1,35 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.counter-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0,0, 0, 0.1);
+    text-align: center;
+}
+
+h1{
+    font-size: 16px;
+    margin: 20px 0;
+    color: #333;
+}
+
+button {
+    font-size: 24;
+    padding: 12px 30px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+
+}
